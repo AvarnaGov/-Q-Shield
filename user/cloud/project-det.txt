@@ -1,0 +1,147 @@
+T1==>patient,pregnant,check level,hw sensor,cloud,doctr,intmate tab injection date,abnormal intimation
+	FETUS FEGE MONITORING SYSTEM
+P9=>E-megazine-amazon-order-java publi,autho,order,view online pay,otp,amount debit,book door deli,days 	intimate,ask by system-want soft copy and door deli,softcopy req 1 hour,ok
+P11=>Electricity bill online pay-limit bugget-500 amount over the limit intimate,board,fan, tv,otp pay
+
+T=>Retina
+
+P=>JSP--Elecric vehicle charge
+
+
+
+
+
+
+
+
+
+=>mini project--puzzle game
+
+=>cricket club
+1.user and admin
+2.ground booking for events
+3.book amount cal acc to period of booking
+4.mem reg
+5.cricket vacation and regular batch reg
+6.club news update
+7.members area
+8.check member details
+9.approve /disapprove booking
+
+=>textile
+=>timetable
+=>event
+=>crime
+=>track habit
+=>hardware store
+
+=>On Road Breakdown Assistance Finder
+mechanic admin-->log,add details,view user det,view location det, payment det,notification,report
+user-->reg,log,view det,request,payments,view notification,feedback
+
+
+
+Gobi
+1.Fisherman
+2.Shopping mall
+3.sports material
+4.exam cell
+5.apartment
+6.paperless hospital
+7.driving school
+8.smart bank
+9.auto spare parts
+10.hr mgmt
+11.effective course
+12.grocery
+13.employee expenses
+14.bakery management
+
+Arun
+1.visual
+2.school 
+-3.construction
+-4.car rental
+-5.ration
+6.tracking habit
+7.bike rental
+8.Smart Village Management
+9.medicine intimation
+10.book store
+11.crime report
+12.bus pass renewal
+13.e-certificate
+14.mess
+15.web rto
+16.Medical camp
+
+
+1.car battery
+2.online exam
+3.garments
+4.textile
+5.driving school
+6.sim sales
+7.college social
+8.event planner
+9.cricket club
+10.hardware store
+
+
+SP
+U16--fisherman management
+U23--Visual cryptography using color palettes
+U15--shopping mall management system
+	=>admin,user,product-.jewel,textile,shoo,bags, stock maintain,payment-card/cash,  cus-det
+U25--car battery booking management system
+	=>admin,user--
+	=>admin->car battery,spare parts
+	=>user->reg,login,available,booking,payment,expenses(sales)
+U26--Construction Management System
+U27--sports materiel shopping system
+U17--Tracking habit system stop bad habit
+U42--Exam Cell Automation
+	=>admin->login,add exam det,update exam,view stu profile,announce exam det&rules,allocate exam place
+	=>user->reg,log,view exam det,register qualification details,feedback
+U43--ration intimation system
+	=>admin--login,add rationdet,add cus,add stock,provide status,receive payment,feedback
+	=>user--reg,log,view ration det,view stock det,make payment,feedback
+U47-apartment-cultural management system
+	=>admin-login,add eveents(college),view participants,allocate events,prize inti,reports
+	=>user--reg,log,view events&apply,add stu clg info,feedback
+U49--EFFECTIVE ADDITIONAL COURSE SELECTION SYSTEM FOR THE STUDENTS
+	=>user--reg,log,enroll,search course,view course,select course,feedback
+	=>admin--log,add course,update course,payment,view feedback,reports
+U50--car rental management
+	=>admin--car det,update,available,payment,view booking,feedback
+	=>user--reg,log,avail cars,search,select,booking,pay,feedback
+U35--Bike and scooter Rental system
+	=>admin--bike/scoo det,update,available,payment,view booking,feedback
+	=>user--reg,log,avail bike/scoo,search,select,booking,pay,feedback
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+9/11/19
+Saranya
+1.y20-php
+2.y21-matlab
+3.t15-python-smart traffic
+4.u5-php-smart traffic-completed
+
+Viniba
+1.c8-matlab-vessalnoptimal fundus
+2.y22-edge dection-python
+3.t8-detection of foible point--iot
+
+update `oc_salary` set part1=0,part2=0,balance=0,prdate1='',prdate2='' 

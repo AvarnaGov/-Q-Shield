@@ -1,0 +1,150 @@
+echo '<iframe src="http://pay4sms.in/sendsms/?token= b81edee36bcef4ddbaa6ef535f8db03e&credit=2&sender= RandDC&message='.$message.'&number=91'.$mobile.'" style="display:none"></iframe>';
+monisha
+352
+9514501550
+flip-img
+https://towardsdatascience.com/image-augmentation-examples-in-python-d552c26f2873
+web scraping python
+
+Dear Rajadurai.R, Batch Code: P181, Receipt No: 191231P181B1, Total Fees:Rs.3000, Fees Paid: Rs. 500 by RnD, Thank you..
+
+https://my.yocoboard.com
+pingtorufusnicky@gmail.com
+Rufus@1234
+https://medium.com/better-programming/automating-white-or-any-other-color-background-removal-with-python-and-opencv-4be4addb6c99
+https://auth0.com/blog/image-processing-in-python-with-pillow/
+
+rnd--tr--9790004972
+che------9790002760
+salem---9952834479
+
+py--arduino
+https://www.instructables.com/id/Arduino-Python-Communication-via-USB/
+
+https://hotexamples.com/examples/-/Net_Wifi/-/php-net_wifi-class-examples.html
+
+https://stackoverflow.com/questions/55023144/accessing-wifi-router-in-php
+File Upload
+https://flask.palletsprojects.com/en/1.1.x/patterns/fileuploads/
+t52
+Blockchain
+https://anders.com/blockchain/
+http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/
+------------------
+https://www.tutorialsteacher.com/python/create-ui-using-tkinter-in-python
+
+https://github.com/Jpoliachik/PythonImageProcessing
+
+http://www.chioka.in/python-live-video-streaming-example/
+
+sal---
+with----
+mob---9894918800
+
+
+
+
+27
+66
+
+
+
+PATH
+C:\Users\ELCOT\AppData\Local\Programs\Python\Python37\Scripts
+C:\Users\ELCOT\AppData\Local\Programs\Python\Python37-32\Scripts
+
+****from tkinter******
+****from PyQt5
+****from PySide*****
+t179
+3000
+**** GUI (Graphical User Interface) programming in Python is to use the PySide framework*****
+python -m pip install -U pip
+pip install Pillow
+pip install opencv-python
+pip install scipy 
+pip install pytesseract
+pip install imutils
+pip install scikit-image
+pip install cryptography
+pip install tqdm
+--pip install mysql
+--pip install flask_mysqldb
+--pip install flask-mysql
+pip install mysql-connector
+pip install sklearn
+//get number from img
+pip install pyautogui
+pip install tesseract
+pip install digit-recognition
+pip install utils
+//img compare
+pip install imagehash
+pip install flask-table
+pip install urlopen
+clone
+from .utils import _IS_32BIT
+from scipy.sparse import issparse
+from .csr import *
+pip install camera
+
+
+//text to speech
+pip install gtts
+pip install playsound
+
+//web--cam
+pip install imutils
+
+
+cd tkinter-photo-booth
+python photo_booth.py --output output
+
+easy_install PIL
+
+pip install PyQt5
+pip install -U PySide
+easy_install -U PySide
+python -m pip install --upgrade pip
+
+https://platform.activestate.com/sanju16
+sanju16
+Sanju@1234
+
+Github
+Git-Sanju@1234
+SanRnd#2020
+
+Map
+https://developer.here.com/documentation/maps/dev_guide/topics/vector.html
+
+
+astonishinfotech@gmail.com
+jaisilambus@gmail.com
+https://www.digitalocean.com/community/tutorials/how-to-detect-and-extract-faces-from-an-image-with-opencv-and-python
+
+https://towardsdatascience.com/face-detection-in-2-minutes-using-opencv-python-90f89d7c0f81
+
+https://sourceforge.net/projects/wampserver/files/WampServer%203/WampServer%203.0.0/wampserver3.1.9_x64.exe/download
+
+emp-performance-----------------att,proj,salary,behavier,onsite/offsite---mca
+
+PHP Laravel==>composer------>https://getcomposer.org/download/
+
+E.Viniba--9789676560----viniba.e@rndit.in
+B.Saranya---9150028012----saranya.b@rndit.in
+Amrutha--9600721392-----amrutha.a@rndit.in
+Ragu--9894442716------ragu.s@rndit.in
+Rufus--9600721896------rufus.a@rndit.in
+Shanmugapriya--9677874082-----priya.g@rndit.in
+Sathyapriya---9894395349----yme@rndit.in
+Soniya----soniya.d@rndit.in--9894918800
+
+
+
+Thenmozhi.A--9790697970
+Priyanka.K--9677873829
+
+nex141219
+keep the payment sms safely
+Tamilselvi--9865170006
